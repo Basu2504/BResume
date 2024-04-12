@@ -1,0 +1,33 @@
+html {
+    background: #EEEEEE;
+}
+h1{
+    color: #76ABAE;
+}
+h2{
+    color: #31363F
+}
+.nod{
+    background-color: #FFE6E6;
+}
+.ans{
+    color: #E1AFD1;
+    font-size: xx-large;
+}
+.que{
+    color:#7469B6;
+    font-size: x-large;
+}
+#sc{
+    background-color: #9290C3;
+}
+#com{
+    color: #1B1A55;
+    font-size: 300%;
+}
+#das{
+    text-align: right;
+}
+#man{
+    font-size: large;
+}
